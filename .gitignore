@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+tsconfig.tsbuildinfo
+.env
+data/
+*.db
+*.sqlite
+*.sqlite3
